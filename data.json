@@ -1,8 +1,8 @@
-﻿{
+{
     "personalityQuiz": {
       "questions": [
         {
-          "title": "1. Kim z pośród niżej podanych zawodów najbardziej pasuje to tego kim chciałeś ostać jako dziecko?",
+          "title": "1. Kim chciałeś zostać jako dziecko?",
           "answers": [
             {
               "answer": "Podróżnikiem",
@@ -35,7 +35,7 @@
           ]
         },
         {
-          "title": "2. Które z tych miejsc wydaje ci się njbardziej atrakcyjne do wykonywania pracy?",
+          "title": "2. Które z tych miejsc wydaje ci się atrakcyjne do wykonywania pracy?",
           "answers": [
             {
               "answer": "Hotel",
@@ -68,7 +68,7 @@
           ]
         },
         {
-          "title": "3. Która odpowiedź najlepiej do ciebie pasuje?",
+          "title": "3. Która odpowiedź najlepiej do ciebie pasuje",
           "answers": [
             {
               "answer": "Nie potrafię siedzieć w miejscu",
@@ -101,7 +101,7 @@
           ]
         },
         {
-          "title": "4. Co najbardziej lubisz robić w wolnym czasie z wymienionych rzeczy?",
+          "title": "4. Co lubisz robić w wolnym czasie",
           "answers": [
             {
               "answer": "Spaceruję",
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "title": "5. Czego chciałbyś się nauczyć najbardziej w trakcie studiów z wymienionych niżej rzeczy?",
+          "title": "5. Czego chciałbyś się uczyć",
           "answers": [
             {
               "answer": "Języków obcych i kultury innych krajów",
@@ -200,7 +200,7 @@
           ]
         },
         {
-          "title": "7. Co z niżej wymienionych przeszkadzałoby ci najbardziej w przyszłej pracy?",
+          "title": "7. Co przeszkadzałoby ci najbardziej w przyszłej pracy",
           "answers": [
             {
               "answer": "Monotonia",
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "title": "8. Jakie masz oczekiwania wobec swojej przyszłej pracy?",
+          "title": "8. Jakie masz oczekiwania wobec swojej przyszłej pracy",
           "answers": [
             {
               "answer": "Chcę dużo podróżować i poznawać nowych ludzi",
@@ -266,40 +266,40 @@
           ]
         },
         {
-          "title": "9. Jaka powinna być osoba z wymienionych niżej, żeby najlepiej się z nią pracowało?",
+          "title": "9. Z jakimi osobami lubisz pracować w grupie",
           "answers": [
             {
-              "answer": "Komunikatywna",
+              "answer": "Komunikatywnymi",
               "result": "1"
             },
             {
-              "answer": "Logicznie myśląca",
+              "answer": "Logicznie myślącymi",
               "result": "2"
             },
             {
-              "answer": "Wyrozumiała",
+              "answer": "Wyrozumiałymi",
               "result": "3"
             },
             {
-              "answer": "Ambitna",
+              "answer": "Ambitnymi",
               "result": "4"
             },
             {
-              "answer": "Zorganizowana",
+              "answer": "Zorganizowanymi",
               "result": "5"
             },
             {
-              "answer": "Sumienna",
+              "answer": "Sumiennymi",
               "result": "6"
             },
             {
-              "answer": "Kreatywna",
+              "answer": "Kreatywnymi",
               "result": "7"
             }
           ]
         },
         {
-          "title": "10. Które osiągnięcie byłoby dla ciebie najbardziej satysfakcjonujące?",
+          "title": "10. Które osiągnięcie byłoby dla ciebie najbardziej satysfakcjonujące",
           "answers": [
             {
               "answer": "Wymyślenie maszyny, która w minutę przenosiłaby nas w dowolne miejsce na ziemi",
@@ -332,7 +332,7 @@
           ]
         },
         {
-          "title": "11. Jakie słowo z podanych niżej kojarzy ci się z twoją wymarzoną pracą?",
+          "title": "11. Jakie słowo kojarzy ci się z twoją wymarzoną pracą",
           "answers": [
             {
               "answer": "Spełnienie",
@@ -365,7 +365,7 @@
           ]
         },
         {
-          "title": "12. Co z pośród niżej podanych najbardziej pasuje do twoich oczekiwań w trakcie studiów?",
+          "title": "12. Dlaczego chcesz iść na studia",
           "answers": [
             {
               "answer": "Chcę poznawać nowych ludzi",
